@@ -45,7 +45,7 @@ body{
     display : flex;
     flex-direction: row;
     justify-content: center;
-    /* align-items: center; */
+    align-items: center;
     padding-top: 10px;
     margin-bottom: 0px;
 }
@@ -70,7 +70,7 @@ body{
     margin-inline : 200px; 
     padding-inline : 100px;
     padding-bottom : 2vw;
-    displayflex
+    display: flex;
     align-items: center;
     justify-content: space-evenly;     
 
